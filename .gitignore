@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# Environment files
+.env
+.env.*.local
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Linting
+.eslintcache
+
+
